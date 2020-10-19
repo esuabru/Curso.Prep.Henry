@@ -1,7 +1,7 @@
 <img  src='../logo.png' height='70px'>
 
 
-# Git - Lección 1 xxxd
+# Git - Lección 1 xxxeeeeed
 estebbb
 Esteban Suárez Bruna
 
