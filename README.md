@@ -14,7 +14,7 @@
 * [08 - HTML](./08-HTML) (3 hs)
 * [09 - CSS](./09-CSS-Positioning) (3 hs)
 * Checkpoint
-
+dd
 # La Carrera
 
 Si querés saber más sobre la carrera, mirá este video:
